@@ -1,0 +1,14 @@
+[
+    {
+        "question": "What is Python?",
+        "answer": "Python is a high-level programming language..."
+    },
+    {
+        "question": "How to install Python?",
+        "answer": "To install Python, you can visit the official Python website..."
+    },
+    {
+        "question": "What are some popular Python libraries?",
+        "answer": "There are many popular Python libraries such as NumPy, Pandas, and Matplotlib..."
+    }
+]
